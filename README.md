@@ -1,16 +1,17 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**MuddyNathan7184/MuddyNathan7184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **MuddyNathan7184**, a backend engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Code is poetry
+- 🐛 Bug hunter by night
+- 💬 Ask me anything about code
+
+## Tech
+
+`PostgreSQL` `Ruby` `Laravel` `Spring`
+
+---
+
+_Neovim convert._
